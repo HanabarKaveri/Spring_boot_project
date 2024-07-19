@@ -15,9 +15,13 @@ recycling and safe reuse globally.
 ####  Performance Indicator(PI) : 6.3.2 
 Proportion of bodies of water with good ambient water quality.
 ###  Issues:
-#### Social
-Improved Public Health: Access to clean water is essential for drinking, sanitation, and hygiene practices, reducing the incidence of water-related illnesses and improving overall well-being.
-
+#### 1) Social
+* Improved Public Health: Access to clean water is essential for drinking, sanitation, and hygiene practices, reducing the incidence of water-related illnesses and improving overall well-being.
+#### 2) Economic
+* Public Health Savings: Healthy populations are more productive and require fewer medical interventions, resulting in long-term savings for healthcare systems and individuals.
+#### 3) Environment
+* Biodiversity Conservation: Cleaner water environments support a diverse range of aquatic species, including fish, amphibians, and invertebrates.
+* Improvement of Water Resources: Cleaner water resources resulting from cleanup activities benefit not only aquatic life but also provide essential resources for human communities.
 
 
 
