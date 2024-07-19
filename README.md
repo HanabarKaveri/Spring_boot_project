@@ -14,6 +14,9 @@ By 2030, improve water quality by reducing pollution, eliminating dumping and mi
 recycling and safe reuse globally.
 ####  Performance Indicator(PI) : 6.3.2 
 Proportion of bodies of water with good ambient water quality.
+###  Issues:
+#### Social
+Improved Public Health: Access to clean water is essential for drinking, sanitation, and hygiene practices, reducing the incidence of water-related illnesses and improving overall well-being.
 
 
 
