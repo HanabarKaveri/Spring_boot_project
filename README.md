@@ -40,7 +40,14 @@ These dependencies cover the necessary libraries for building a Spring Boot appl
    * Lombok
 3) Build Plugins
    * Maven
-
+### Implementation Process
+To initialize a Spring Boot project, we used the Spring Initializer tool. This tool helps to generate a project structure with the necessary configurations. When setting up the project, we selected inbuilt dependencies like Spring Web for building web applications and RESTful services, Spring Data JPA for database interactions and ORM capabilities, Java Mail Sender for handling email functionalities, and a database driver ( MySQL) for managing data storage. These dependencies provide a robust foundation for developing a full-featured application efficiently by leveraging Spring Boot’s integration capabilities. This runs on port : 8080 by default.
+### Testing
+The tools we used for testing were Swagger and Selenium.
+#### Swagger:
+Swagger simplifies API testing through its interactive Swagger UI, generated from the OpenAPI Specification. This UI allows developers to send requests (GET,POST, etc.) to API endpoints, input parameters, headers, and view expected responses and status codes. It serves as a comprehensive testing interface, enabling thorough validation of API functionality and facilitating exploratory testing by modifying inputs in real-time. Swagger’s integration with the OpenAPI Specification ensures consistent documentation and automated testing, enhancing API development efficiency and reliability.
+#### Selenium:
+After testing the APIs we tested the tools Selenium for testing over website. Our test cases encompassed a range of scenarios, such as user authentication, form submissions, data retrieval. This holistic approach ensured thorough testing coverage across both backend APIs and frontend user interactions.
 
 
 
