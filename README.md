@@ -9,6 +9,11 @@ The lack of access to clean water and sanitation continues to be a pressing glob
 ### Sustainable Development Goal:6
 #### Clean water and sanitization:
 This goal directly addresses the need for universal access to safe and affordable drinking water and adequate sanitation for all. By ensuring access to clean water and sanitation facilities, SDG 6 aims to improve health outcomes, reduce water-related diseases, and enhance overall well-being.
+#### Target : 6.3 
+By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing
+recycling and safe reuse globally.
+####  Performance Indicator(PI) : 6.3.2 
+Proportion of bodies of water with good ambient water quality.
 
 
 
