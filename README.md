@@ -29,6 +29,17 @@ A significant portion of the backend project involved working with Java code and
   * React framework for frontend.
   * Java for backend.
   * Swagger for APIs testing.
+#### Packages/Libraries
+These dependencies cover the necessary libraries for building a Spring Boot application with JPA for database access, email functionality, web services, logging,API documentation, development tools, MySQL connectivity, and reduced boiler plate code with Lombok.
+1) Spring Boot Dependencies
+   * spring-boot-starter-data-jpa
+   * Spring-boot-starter-mail
+   * Spring-boot-starter-web
+2) Additional Libraries
+   * mysql-connector-j
+   * Lombok
+3) Build Plugins
+   * Maven
 
 
 
