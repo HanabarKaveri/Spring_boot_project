@@ -21,8 +21,14 @@ Proportion of bodies of water with good ambient water quality.
 #### 3) Environment
 * Biodiversity Conservation: Cleaner water environments support a diverse range of aquatic species, including fish, amphibians, and invertebrates.
 * Improvement of Water Resources: Cleaner water resources resulting from cleanup activities benefit not only aquatic life but also provide essential resources for human communities.
-
-
+###  Implementation
+####  Implementation Platforms
+A significant portion of the backend project involved working with Java code and the Spring Boot framework, executed using IntelliJ IDEA. The rest of the development, including the frontend and its integration with the backend, was done using Visual Studio Code. For the database, we used MySQL.
+#### Programming Language
+ The programming languages used in this project include:
+  * React framework for frontend.
+  * Java for backend.
+  * Swagger for APIs testing.
 
 
 
